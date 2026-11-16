@@ -1,7 +1,18 @@
-1. Nome: Leonardo Kenji Kubo Barboza
-   RM: 567518
-   Contribuição: Criação do site e integração com a API da SPTrans.
+Leonardo Kenji Kubo Barboza
+RM: 567518
 
-2. Nome: Lucas Gabriel Alvarenga e Meireles
-   RM: 567305
-   Contribuição: Testes das funcionalidades e avaliação da usabilidade do site.
+Contribuições:
+
+Desenvolvimento da interface e das funcionalidades do aplicativo mobile em React Native.
+
+Implementação da integração com a API Olho Vivo da SPTrans para consulta de linhas e pontos de ônibus.
+
+
+Lucas Gabriel Alvarenga e Meireles
+RM: 567305
+
+Contribuições:
+
+Realização de testes funcionais para verificar o comportamento do aplicativo.
+
+Validação das funcionalidades e avaliação da usabilidade, identificando oportunidades de melhoria na experiência do usuário.
