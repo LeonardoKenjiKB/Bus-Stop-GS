@@ -1,0 +1,7 @@
+1. Nome: Leonardo Kenji Kubo Barboza
+   RM: 567518
+   Contribuição: Criação do site e integração com a API da SPTrans.
+
+2. Nome: Lucas Gabriel Alvarenga e Meireles
+   RM: 567305
+   Contribuição: Testes das funcionalidades e avaliação da usabilidade do site.
